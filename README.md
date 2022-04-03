@@ -130,7 +130,7 @@ Maka syntaxnya seperti berikut :<br>
 </html>
 ```
 Hasil dari syntax terserbut :<br>
-![Layout Sederhana](Lab4_layout/Pic/layoutsederhana1.png)<br>
+![Layout Sederhana](Lab4_Layout/Pic/layoutsederhana1.png)<br>
 
 ### Menambahkan File CSS
 Untuk membuat tampilan menjadi lebih bagus, maka tambahkan CSS. Buat file CSS dengan nama <b>Style.css</b>.<br>
@@ -169,7 +169,7 @@ header h1 {
 }
 ```
 Maka tampilannya akan berubah menjadi seperti berikut :<br>
-![Add CSS](Lab4_layout/Pic/addcss.png)<br>
+![Add CSS](Lab4_Layout/Pic/addcss.png)<br>
 
 ### Membuat Navigasi
 
