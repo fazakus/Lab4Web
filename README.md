@@ -467,3 +467,15 @@ Itulah cara membuat layout sederhana
 => buat single layout yang berisi deskripsi, portfolio, dll
 2. Tambahkan layout untuk menu Contact<br>
 => yang berisi form isian: nama, email, message, dll
+
+<hr>
+
+## Jawaban Tugas
+1. Saya menambahkan file html untuk menu <b>about</b>. Berikut tampilannya <br>
+![Jawaban no 1](Lab4_Layout/Pic/aboutme.png)<br>
+2. Berikut adalah tampilan dari <b>Contact Me</b> yang saya buat.<br>
+![Jawaban no 2](Lab4_Layout/Pic/contact%20me.png)<br>
+
+<hr>
+
+<b>Terima Kasih</b>
